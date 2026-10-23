@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -1723,17 +1723,6 @@
             "MD5": "e4a2d428df5a3608fa028f2427ce4fb7",
             "path": "resourcepacks/Zenith_RCT Trainers+ [1.6] v2.1.zip",
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_RCT%20Trainers%2B%20%5B1.6%5D%20v2.1.zip"
-          }
-        },
-        {
-          "id": "zenith.resourcepack:7f7d15ce8389751d:1.0.3@zip",
-          "name": "TCG Resourcepack",
-          "type": "File",
-          "artifact": {
-            "size": 2312348374,
-            "MD5": "41713647dcccf27a50bb4a86c81c9d14",
-            "path": "resourcepacks/Zenith_TCG Resourcepack.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_TCG%20Resourcepack.zip"
           }
         },
         {
