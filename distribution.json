@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -267,17 +267,6 @@
             "size": 387981,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cicada-lib-0.13.1+1.21-1.21.1.jar",
             "MD5": "053a318355c300ed01e62aa651513944"
-          }
-        },
-        {
-          "id": "zenith.fabricmod:cinematic:0.12.2@jar",
-          "name": "Cinematic Interactions",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 819808,
-            "MD5": "ac3c8d78afbb184e820d534544501175",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/CinematicInteraction-0.1-Fabric-1.21.1.jar",
-            "path": "zenith/releases/1.0.3/cinematic/CinematicInteraction-0.1-Fabric-1.21.1.jar"
           }
         },
         {
@@ -1780,7 +1769,13 @@
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_icon.zip"
           }
         }
-      ]
+      ],
+      "javaOptions": {
+        "ram": {
+          "minimum": 4096,
+          "recommended": 9216
+        }
+      }
     }
   ]
 }
