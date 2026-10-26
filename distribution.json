@@ -1335,7 +1335,7 @@
           "artifact": {
             "size": 1971384,
             "MD5": "8bd24695439b22b14a4d91bd53737ecf",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.6/fabricmods/required/toms_storage_fabric-1.21-2.4.2.jar",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/toms_storage_fabric-1.21-2.4.2.jar",
             "path": "zenith/releases/1.0.6/toms_storage/toms_storage_fabric-1.21-2.4.2.jar"
           }
         },
