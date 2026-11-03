@@ -795,10 +795,6 @@
             "size": 84035,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/InvMove-0.9.3+1.21.1-Fabric.jar",
             "MD5": "3d311d2c753d4d4225d82b5361632832"
-          },
-          "required": {
-            "value": false,
-            "def": true
           }
         },
         {
@@ -1802,6 +1798,17 @@
             "MD5": "41d16d778dec333e4b21f478f6ca7fed",
             "path": "resourcepacks/Zenith_icon.zip",
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_icon.zip"
+          }
+        },
+        {
+          "id": "zenith.fabricmod:immediatelyfast:1.6.15+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342235,
+            "MD5": "66b44206af5115e07e22804ee414fb02",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
+            "path": "zenith/releases/1.0.7/immediatelyfast/ImmediatelyFast-Fabric-1.6.15+1.21.1.jar"
           }
         }
       ],
