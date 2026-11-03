@@ -1039,10 +1039,6 @@
             "size": 21464,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/nethermap-4.0.0-1.21.1.jar",
             "MD5": "97c2cba4be2111c6c964b9f3eb1ccc3c"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
