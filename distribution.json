@@ -186,7 +186,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -222,7 +222,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -236,7 +236,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -788,17 +788,6 @@
           }
         },
         {
-          "id": "zenith.fabricmod:immediatelyfast:1.6.15+1.21.1@jar",
-          "name": "ImmediatelyFast",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 342235,
-            "MD5": "66b44206af5115e07e22804ee414fb02",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
-            "path": "zenith/releases/1.0.7/immediatelyfast/ImmediatelyFast-Fabric-1.6.15+1.21.1.jar"
-          }
-        },
-        {
           "id": "me.pieking1215:invmove:0.9.3@jar",
           "name": "InvMove",
           "type": "FabricMod",
@@ -809,7 +798,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -988,7 +977,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -1062,7 +1051,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -1096,7 +1085,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -1279,7 +1268,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -1355,7 +1344,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
@@ -1581,7 +1570,7 @@
           },
           "required": {
             "value": false,
-            "def": false
+            "def": true
           }
         },
         {
