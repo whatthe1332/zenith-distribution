@@ -1550,8 +1550,8 @@
           "artifact": {
             "size": 311394,
             "MD5": "75010c3e5aa12d59736341f666d54865",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.9/fabricmods/required/FULib.jar",
-            "path": "zenith/releases/1.0.9/zenithuniversalfusion/FULib.jar"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.9/fabricmods/required/FUCLib.jar",
+            "path": "zenith/releases/1.0.9/zenithuniversalfusion/FUCLib.jar"
           }
         },
         {
