@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -183,6 +183,10 @@
             "MD5": "04bf67f038d4d1ec5636b4687fb5bcf9",
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/BetterCobblemonSpectation-2.0.3-Zenith.jar",
             "path": "zenith/releases/1.0.3/battlecam/BetterCobblemonSpectation-2.0.3-Zenith.jar"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -215,6 +219,10 @@
             "size": 1810710,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/BetterF3-11.0.3-Fabric-1.21.1.jar",
             "MD5": "4f3a811be18c5c1cb64f39f3de6fb0bd"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -225,6 +233,10 @@
             "size": 1213168,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/brb-1.10.0-rc5+1.21.jar",
             "MD5": "d718eff1a6a0f2f9b863f67082ec092e"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -277,17 +289,6 @@
             "size": 1157166,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
-          }
-        },
-        {
-          "id": "zenith.fabricmod:cloudtweak:1.3.2@jar",
-          "name": "CloudTweak",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3984857,
-            "MD5": "4a3e76acff3ca336217973064556d63b",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/CloudTweak-1.3.2.jar",
-            "path": "zenith/releases/1.0.3/cloudtweak/CloudTweak-1.3.2.jar"
           }
         },
         {
@@ -415,16 +416,6 @@
           }
         },
         {
-          "id": "com.mrlegitosity.cqt:cobblemon_quick_teams:1.4.5@jar",
-          "name": "Cobblemon Quick Teams",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 76074,
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cobblemon_quick_teams-1.4.5.jar",
-            "MD5": "3af97fa93896c300aafa633b225b59f2"
-          }
-        },
-        {
           "id": "com.jostar.cobblemonriderscall:cobblemon_riders_call:1.0+1.21.1@jar",
           "name": "Cobblemon: Rider's Call",
           "type": "FabricMod",
@@ -466,13 +457,14 @@
           }
         },
         {
-          "id": "name.modid:cobblemon-battle-extras:1.13.45@jar",
-          "name": "Cobblemon Battle Extras",
+          "id": "name.modid:cobblemon-battle-extras:1.0.1@jar",
+          "name": "Cobblemon Battle Ultra",
           "type": "FabricMod",
           "artifact": {
-            "size": 1515972,
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cobblemon-battle-extras-fabric-1.13.45.jar",
-            "MD5": "dbf09923dc28a0339c5c5bb7eae9061d"
+            "size": 2426143,
+            "MD5": "6d0eee0fdc087b0b97f276dfb69803f7",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/Cobblemon-Battle-Ultra-1.0.1.jar",
+            "path": "zenith/releases/1.0.7/cobblemon-battle-extras/Cobblemon-Battle-Ultra-1.0.1.jar"
           }
         },
         {
@@ -609,24 +601,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:cobbletcg:1.6.0@jar",
-          "name": "CobbleTcg",
+          "id": "ludichat.cobbreeding:cobbreeding:2.4.0-zenith.3@jar",
+          "name": "Cobbreeding – Zenith Edition",
           "type": "FabricMod",
           "artifact": {
-            "size": 61690825,
-            "MD5": "426a1edeacbc09b0dbaf22e29dc1ba69",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/cobbletcg-1.6.0-datafix-v2.jar",
-            "path": "zenith/releases/1.0.3/cobbletcg/cobbletcg-1.6.0-datafix-v2.jar"
-          }
-        },
-        {
-          "id": "ludichat.cobbreeding:cobbreeding:2.1.1@jar",
-          "name": "Cobbreeding",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 304580,
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/Cobbreeding-fabric-2.1.1.jar",
-            "MD5": "d7fff33e9b9d730e4cd6a32fdf04c48b"
+            "size": 581931,
+            "MD5": "f2bc974437600a2c57de2f5bdfeec315",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/Cobbreeding-fabric-2.4.0-zenith.jar",
+            "path": "zenith/releases/1.0.7/cobbreeding/Cobbreeding-fabric-2.4.0-zenith.jar"
           }
         },
         {
@@ -647,6 +629,10 @@
             "size": 83679,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/Controlling-fabric-1.21.1-19.0.5.jar",
             "MD5": "5660c1ed5fee202ca5ca9a617a4202b4"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -667,16 +653,6 @@
             "size": 23781,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cupboard-fabric-1.21-2.9.jar",
             "MD5": "a94bfab1f1eff3cc9e7493f3aa8d2dbb"
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.0.0@jar",
-          "name": "Custom NPCs",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 13040464,
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/CustomNPCs-Unofficial-Fabric-1.21.1.20251129.jar",
-            "MD5": "a25fafef6ef2aff922cde1f71baa98a9"
           }
         },
         {
@@ -782,17 +758,6 @@
           }
         },
         {
-          "id": "zenith.fabricmod:fusionmon:0.1.0-beta@jar",
-          "name": "Fusionmon",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 267847,
-            "MD5": "96fbddd0e8f6f7e4b4d21572642179f2",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/fusionmon-0.1.0-beta.jar",
-            "path": "zenith/releases/1.0.3/fusionmon/fusionmon-0.1.0-beta.jar"
-          }
-        },
-        {
           "id": "me.fzzyhmstrs:fzzy_config:0.7.1+1.21@jar",
           "name": "Fzzy Config",
           "type": "FabricMod",
@@ -823,6 +788,17 @@
           }
         },
         {
+          "id": "zenith.fabricmod:immediatelyfast:1.6.15+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342235,
+            "MD5": "66b44206af5115e07e22804ee414fb02",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
+            "path": "zenith/releases/1.0.7/immediatelyfast/ImmediatelyFast-Fabric-1.6.15+1.21.1.jar"
+          }
+        },
+        {
           "id": "me.pieking1215:invmove:0.9.3@jar",
           "name": "InvMove",
           "type": "FabricMod",
@@ -830,6 +806,10 @@
             "size": 84035,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/InvMove-0.9.3+1.21.1-Fabric.jar",
             "MD5": "3d311d2c753d4d4225d82b5361632832"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -843,13 +823,18 @@
           }
         },
         {
-          "id": "net.mcreator:izucobblemon:1.0.0@jar",
-          "name": "IzuCobblemon",
+          "id": "zenith.fabricmod:jade:15.10.4+fabric@jar",
+          "name": "Jade",
           "type": "FabricMod",
           "artifact": {
-            "size": 621756,
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/izucobblemon-1.21.1-1.0.0.jar",
-            "MD5": "672ac8c8aabf4a2f4f022858e7777060"
+            "size": 738993,
+            "MD5": "615ee11fead402625a251ec6e245265b",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/Jade-1.21.1-Fabric-15.10.4.jar",
+            "path": "zenith/releases/1.0.7/jade/Jade-1.21.1-Fabric-15.10.4.jar"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -1000,6 +985,10 @@
             "size": 75984,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/MouseTweaks-fabric-mc1.21-2.26.jar",
             "MD5": "1d39ead1641ef522bc7ae92383f21da8"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1050,6 +1039,10 @@
             "size": 21464,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/nethermap-4.0.0-1.21.1.jar",
             "MD5": "97c2cba4be2111c6c964b9f3eb1ccc3c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1070,6 +1063,10 @@
             "size": 601087,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/notenoughcrashes-fabric-4.4.9+1.21.1.jar",
             "MD5": "635fe76b795c2d91f9a6c4bc436e5266"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1100,6 +1097,10 @@
             "size": 240317,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/particular-1.1.2+1.21.jar",
             "MD5": "98825e96e05e8c4a55a582278d9aca01"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1213,6 +1214,10 @@
             "size": 2451799,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/RoughlyEnoughItems-16.0.799-fabric.jar",
             "MD5": "8a011fbf376cc4350743274bfd16d3cf"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -1247,17 +1252,6 @@
           }
         },
         {
-          "id": "zenith.fabricmod:simpletms:2.3.3@jar",
-          "name": "SimpleTMs",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 794419,
-            "MD5": "ff2dd8fe3c1becb1e3fb256ce03a8a25",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/SimpleTMs-fabric-2.3.3.jar",
-            "path": "zenith/releases/1.0.3/simpletms/SimpleTMs-fabric-2.3.3.jar"
-          }
-        },
-        {
           "id": "net.lionarius:skinrestorer:2.4.2+1.21-fabric@jar",
           "name": "SkinRestorer",
           "type": "FabricMod",
@@ -1286,6 +1280,10 @@
             "size": 101791,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/Stfu-2.9.1-1.21.1.jar",
             "MD5": "cd15cc84dd4a98c865775b99418aa95f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1329,6 +1327,17 @@
           }
         },
         {
+          "id": "zenith.fabricmod:tmcraft:1.4.18+1.7.3@jar",
+          "name": "TM Craft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3360417,
+            "MD5": "3bb04243884b305b228de0ed352ae89a",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/tmcraft-1.4.18%2B1.7.3.jar",
+            "path": "zenith/releases/1.0.7/tmcraft/tmcraft-1.4.18+1.7.3.jar"
+          }
+        },
+        {
           "id": "zenith.fabricmod:toms_storage:2.4.2@jar",
           "name": "Tom's Simple Storage Mod",
           "type": "FabricMod",
@@ -1347,6 +1356,10 @@
             "size": 12432,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/tooltipfix-1.1.1-1.20.jar",
             "MD5": "492430f451d89f7fe2d7b8410c9748ac"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1474,14 +1487,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:zenith_showdown_client:0.1.6@jar",
+          "id": "zenith.fabricmod:zenith_showdown_client:0.1.9@jar",
           "name": "Zenith Showdown Client UI",
           "type": "FabricMod",
           "artifact": {
-            "size": 412473,
-            "MD5": "ff2dfb02d80879651049f4b7f892887e",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/ShoLib.jar",
-            "path": "zenith/releases/1.0.3/zenith_showdown_client/ShoLib.jar"
+            "size": 432484,
+            "MD5": "eb50eaab630f815539f8ecc0404f7b4d",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/ShoLib.jar",
+            "path": "zenith/releases/1.0.7/zenith_showdown_client/ShoLib.jar"
           }
         },
         {
@@ -1507,14 +1520,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:zenithcore:7.0.40@jar",
+          "id": "zenith.fabricmod:zenithcore:7.0.44@jar",
           "name": "Zenith Core Client",
           "type": "FabricMod",
           "artifact": {
-            "size": 5948250,
-            "MD5": "ac018de87863df2d4e6ed0c55ef7dbbb",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/ZCLib.jar",
-            "path": "zenith/releases/1.0.3/zenithcore/ZCLib.jar"
+            "size": 5949179,
+            "MD5": "64a422fdebb8a1ee611cd9532e0518b4",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/ZCLib.jar",
+            "path": "zenith/releases/1.0.7/zenithcore/ZCLib.jar"
           }
         },
         {
@@ -1551,6 +1564,17 @@
           }
         },
         {
+          "id": "zenith.fabricmod:zenithuniversalfusion:2.0.0-alpha.14@jar",
+          "name": "Zenith Universal Fusion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 280912,
+            "MD5": "6830158a8153d6c5a065f9dad49ff9e2",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/zenithuniversalfusion-2.0.0-alpha.14-client.jar",
+            "path": "zenith/releases/1.0.7/zenithuniversalfusion/zenithuniversalfusion-2.0.0-alpha.14-client.jar"
+          }
+        },
+        {
           "id": "dev.isxander:zoomify:2.14.4+1.21.1@jar",
           "name": "Zoomify",
           "type": "FabricMod",
@@ -1558,226 +1582,241 @@
             "size": 807825,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/Zoomify-2.14.4+1.21.1.jar",
             "MD5": "ddeab985c6529935da575b50eb0ffe1f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
-          "id": "zenith.resourcepack:adb0b2215f6d4108:1.0.3@zip",
+          "id": "zenith.resourcepack:adb0b2215f6d4108:1.0.7@zip",
           "name": "-1.21.2 Fresh Moves v3.1 (With Animated Eyes)",
           "type": "File",
           "artifact": {
             "size": 321871,
             "MD5": "9425263fea042911f13a1482f4c3f436",
             "path": "resourcepacks/Zenith_-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_-1.21.2%20Fresh%20Moves%20v3.1%20(With%20Animated%20Eyes).zip"
           }
         },
         {
-          "id": "zenith.resourcepack:aa9bdaecbf28229d:1.0.3@zip",
+          "id": "zenith.resourcepack:aa9bdaecbf28229d:1.0.7@zip",
           "name": "AllTheMons [R3.5.1]",
           "type": "File",
           "artifact": {
             "size": 12452208,
             "MD5": "cab707fe61d5d23044bf46468f3b8830",
             "path": "resourcepacks/Zenith_AllTheMons [R3.5.1].zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_AllTheMons%20%5BR3.5.1%5D.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_AllTheMons%20%5BR3.5.1%5D.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:70530ad622687d12:1.0.3@zip",
+          "id": "zenith.resourcepack:70530ad622687d12:1.0.7@zip",
           "name": "Better Fonts 32x",
           "type": "File",
           "artifact": {
             "size": 95888,
             "MD5": "4253a665f8410822b5e61734c568120d",
             "path": "resourcepacks/Zenith_Better Fonts 32x.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Better%20Fonts%2032x.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Better%20Fonts%2032x.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:c15fa3b2547d04b5:1.0.3@zip",
+          "id": "zenith.resourcepack:c15fa3b2547d04b5:1.0.7@zip",
           "name": "CCC_2.0.1",
           "type": "File",
           "artifact": {
             "size": 18752217,
             "MD5": "2c8b47d111590e0829277f64e42b0eb7",
             "path": "resourcepacks/Zenith_CCC_2.0.1.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_CCC_2.0.1.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_CCC_2.0.1.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:3e9c396f1d37727e:1.0.3@zip",
+          "id": "zenith.resourcepack:3e9c396f1d37727e:1.0.7@zip",
           "name": "CobbleMotion_v1.5",
           "type": "File",
           "artifact": {
             "size": 2785442,
             "MD5": "3b1852e29575abd0dfdb6565a9f62fbf",
             "path": "resourcepacks/Zenith_CobbleMotion_v1.5.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_CobbleMotion_v1.5.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_CobbleMotion_v1.5.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:ae6ce22de7b4b5bb:1.0.3@zip",
+          "id": "zenith.resourcepack:ae6ce22de7b4b5bb:1.0.7@zip",
           "name": "Cobblemon 3D Poké Rods 1.0",
           "type": "File",
           "artifact": {
             "size": 167546,
             "MD5": "3f9942822210093cd9bed79ce3ae8a0c",
             "path": "resourcepacks/Zenith_Cobblemon 3D Poké Rods 1.0.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:b1eec8ab3b78015a:1.0.3@zip",
+          "id": "zenith.resourcepack:b1eec8ab3b78015a:1.0.7@zip",
           "name": "Cobblemon HUD 1.0",
           "type": "File",
           "artifact": {
             "size": 192521,
             "MD5": "ac28b0c27e7952146709de0803bc4f49",
             "path": "resourcepacks/Zenith_Cobblemon HUD 1.0.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Cobblemon%20HUD%201.0.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Cobblemon%20HUD%201.0.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:9e3eb4ee00628101:1.0.3@zip",
+          "id": "zenith.resourcepack:9e3eb4ee00628101:1.0.7@zip",
           "name": "Cobblemon Interface Modded v1.9.4",
           "type": "File",
           "artifact": {
             "size": 1053517,
             "MD5": "4f305a75335c85bbc1c0cb789a6e14e2",
             "path": "resourcepacks/Zenith_Cobblemon Interface Modded v1.9.4.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Cobblemon%20Interface%20Modded%20v1.9.4.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Cobblemon%20Interface%20Modded%20v1.9.4.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:013a6968a5653298:1.0.3@zip",
+          "id": "zenith.resourcepack:013a6968a5653298:1.0.7@zip",
           "name": "Cobblemon Interface v1.6.0",
           "type": "File",
           "artifact": {
             "size": 14108266,
             "MD5": "03cacbf0b647173ae6707cc74c10866c",
             "path": "resourcepacks/Zenith_Cobblemon Interface v1.6.0.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Cobblemon%20Interface%20v1.6.0.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Cobblemon%20Interface%20v1.6.0.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:7db74c823354db33:1.0.3@zip",
+          "id": "zenith.resourcepack:7db74c823354db33:1.0.7@zip",
           "name": "CqsAnimation",
           "type": "File",
           "artifact": {
             "size": 4460191,
             "MD5": "5614232f7cfabbb42acc2066a2ef9975",
             "path": "resourcepacks/Zenith_CqsAnimation.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_CqsAnimation.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_CqsAnimation.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:ce02fe4a851f0720:1.0.3@zip",
+          "id": "zenith.resourcepack:ce02fe4a851f0720:1.0.7@zip",
           "name": "Enchantment Outlines 1.21.1",
           "type": "File",
           "artifact": {
             "size": 271654,
             "MD5": "fb268efa9438a830d2d7f240a2655805",
             "path": "resourcepacks/Zenith_Enchantment Outlines 1.21.1.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Enchantment%20Outlines%201.21.1.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Enchantment%20Outlines%201.21.1.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:6f3f265c4108f2fd:1.0.3@zip",
+          "id": "zenith.resourcepack:6f3f265c4108f2fd:1.0.7@zip",
           "name": "Extra Move Anims 1.7v1.0.2",
           "type": "File",
           "artifact": {
             "size": 472495,
             "MD5": "7e6636662d1357874fafbfdf029cd4fa",
             "path": "resourcepacks/Zenith_Extra Move Anims 1.7v1.0.2.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Extra%20Move%20Anims%201.7v1.0.2.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Extra%20Move%20Anims%201.7v1.0.2.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:a439ac421620ffcb:1.0.3@zip",
+          "id": "zenith.resourcepack:a439ac421620ffcb:1.0.7@zip",
           "name": "FreshAnimations_v1.10.4",
           "type": "File",
           "artifact": {
             "size": 850941,
             "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
             "path": "resourcepacks/Zenith_FreshAnimations_v1.10.4.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_FreshAnimations_v1.10.4.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_FreshAnimations_v1.10.4.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:bd0451d2518a55b2:1.0.3@zip",
+          "id": "zenith.resourcepack:bd0451d2518a55b2:1.0.7@zip",
           "name": "Hold My Pokeballs+1.21.1",
           "type": "File",
           "artifact": {
             "size": 1951896,
             "MD5": "d6868be3a3383f6c39739e452aaa18f3",
             "path": "resourcepacks/Zenith_Hold My Pokeballs+1.21.1.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Hold%20My%20Pokeballs%2B1.21.1.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Hold%20My%20Pokeballs%2B1.21.1.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:463b9cafecef261d:1.0.3@zip",
+          "id": "zenith.resourcepack:463b9cafecef261d:1.0.7@zip",
           "name": "RCT Trainers+ [1.6] v2.1",
           "type": "File",
           "artifact": {
             "size": 4905355,
             "MD5": "e4a2d428df5a3608fa028f2427ce4fb7",
             "path": "resourcepacks/Zenith_RCT Trainers+ [1.6] v2.1.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_RCT%20Trainers%2B%20%5B1.6%5D%20v2.1.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_RCT%20Trainers%2B%20%5B1.6%5D%20v2.1.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:26b7b67c3e0e0e91:1.0.3@zip",
+          "id": "zenith.resourcepack:4dd3a3dc40fc2f5f:1.0.7@zip",
+          "name": "StoryWorld_RSP",
+          "type": "File",
+          "artifact": {
+            "size": 30811191,
+            "MD5": "8555625a1be67e7e61f7c404f04bf93c",
+            "path": "resourcepacks/Zenith_StoryWorld_RSP.zip",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_StoryWorld_RSP.zip"
+          }
+        },
+        {
+          "id": "zenith.resourcepack:26b7b67c3e0e0e91:1.0.7@zip",
           "name": "Viethoa [Cobblemon]",
           "type": "File",
           "artifact": {
             "size": 2297500,
             "MD5": "f3836560efd428671f1bd4faff334ec4",
             "path": "resourcepacks/Zenith_Viethoa [Cobblemon].zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Viethoa%20%5BCobblemon%5D.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Viethoa%20%5BCobblemon%5D.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:9a916f2e1a07426b:1.0.3@zip",
+          "id": "zenith.resourcepack:9a916f2e1a07426b:1.0.7@zip",
           "name": "Whimscape x Cobblemon v1.7.1",
           "type": "File",
           "artifact": {
             "size": 1339393,
             "MD5": "bf8d5bacc0e6094e80ca0684cec6007b",
             "path": "resourcepacks/Zenith_Whimscape x Cobblemon v1.7.1.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Whimscape%20x%20Cobblemon%20v1.7.1.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Whimscape%20x%20Cobblemon%20v1.7.1.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:836c4d1a73eb5fcf:1.0.3@zip",
+          "id": "zenith.resourcepack:836c4d1a73eb5fcf:1.0.7@zip",
           "name": "Whimscape_1.20.2-1.21.11_r5",
           "type": "File",
           "artifact": {
             "size": 5326127,
             "MD5": "6cc7d31fd62a8ebda6659bc758d1645c",
             "path": "resourcepacks/Zenith_Whimscape_1.20.2-1.21.11_r5.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Whimscape_1.20.2-1.21.11_r5.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Whimscape_1.20.2-1.21.11_r5.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.3@zip",
+          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.7@zip",
           "name": "Zenith Rsp",
           "type": "File",
           "artifact": {
-            "size": 177514385,
-            "MD5": "358dc1104465d01399e25afe0542bf92",
+            "size": 177687245,
+            "MD5": "1b123e2f33a2ded1aecff1bd265bf2c6",
             "path": "resourcepacks/Zenith_Zenith Rsp.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_Zenith%20Rsp.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_Zenith%20Rsp.zip"
           }
         },
         {
-          "id": "zenith.resourcepack:adca88f145b56c0a:1.0.3@zip",
+          "id": "zenith.resourcepack:adca88f145b56c0a:1.0.7@zip",
           "name": "icon",
           "type": "File",
           "artifact": {
             "size": 19585011,
             "MD5": "41d16d778dec333e4b21f478f6ca7fed",
             "path": "resourcepacks/Zenith_icon.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/resourcepacks/Zenith_icon.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/resourcepacks/Zenith_icon.zip"
           }
         }
       ],
