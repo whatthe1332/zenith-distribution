@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -457,14 +457,13 @@
           }
         },
         {
-          "id": "name.modid:cobblemon-battle-extras:1.0.1@jar",
-          "name": "Cobblemon Battle Ultra",
+          "id": "name.modid:cobblemon-battle-extras:1.13.45@jar",
+          "name": "Cobblemon Battle Extras",
           "type": "FabricMod",
           "artifact": {
-            "size": 2426143,
-            "MD5": "6d0eee0fdc087b0b97f276dfb69803f7",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/Cobblemon-Battle-Ultra-1.0.1.jar",
-            "path": "zenith/releases/1.0.7/cobblemon-battle-extras/Cobblemon-Battle-Ultra-1.0.1.jar"
+            "size": 1515972,
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cobblemon-battle-extras-fabric-1.13.45.jar",
+            "MD5": "dbf09923dc28a0339c5c5bb7eae9061d"
           }
         },
         {
@@ -1545,14 +1544,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:zenithuniversalfusion:2.0.0-alpha.15@jar",
+          "id": "zenith.fabricmod:zenithuniversalfusion:2.0.0-alpha.16@jar",
           "name": "Zenith Universal Fusion",
           "type": "FabricMod",
           "artifact": {
-            "size": 298135,
-            "MD5": "74779be7ac10fe386941588fa2fde9fb",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.8/fabricmods/required/FULib.jar",
-            "path": "zenith/releases/1.0.8/zenithuniversalfusion/FULib.jar"
+            "size": 311394,
+            "MD5": "75010c3e5aa12d59736341f666d54865",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.9/fabricmods/required/FULib.jar",
+            "path": "zenith/releases/1.0.9/zenithuniversalfusion/FULib.jar"
           }
         },
         {
