@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -1545,14 +1545,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:zenithuniversalfusion:2.0.0-alpha.14@jar",
+          "id": "zenith.fabricmod:zenithuniversalfusion:2.0.0-alpha.15@jar",
           "name": "Zenith Universal Fusion",
           "type": "FabricMod",
           "artifact": {
-            "size": 280912,
-            "MD5": "6830158a8153d6c5a065f9dad49ff9e2",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.7/fabricmods/required/zenithuniversalfusion-2.0.0-alpha.14-client.jar",
-            "path": "zenith/releases/1.0.7/zenithuniversalfusion/zenithuniversalfusion-2.0.0-alpha.14-client.jar"
+            "size": 298135,
+            "MD5": "74779be7ac10fe386941588fa2fde9fb",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.8/fabricmods/required/FULib.jar",
+            "path": "zenith/releases/1.0.8/zenithuniversalfusion/FULib.jar"
           }
         },
         {
