@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.11",
+      "version": "1.0.12",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -590,14 +590,14 @@
           }
         },
         {
-          "id": "com.cobbleserverutils:cobbleserverutils:2.1.0-alpha.59@jar",
-          "name": "CobbleGacha Expanded 2.1.0 Alpha 25",
+          "id": "com.cobbleserverutils:cobbleserverutils:2.2-zenith-v15-test@jar",
+          "name": "CobbleGacha Zenith V15 Command Rewards TEST",
           "type": "FabricMod",
           "artifact": {
-            "size": 33330211,
-            "MD5": "0f722d9e0c82597f0936f62b088a5d56",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.11/fabricmods/required/CobbleGacha-Expanded-2.2.jar",
-            "path": "zenith/releases/1.0.11/cobbleserverutils/CobbleGacha-Expanded-2.2.jar"
+            "size": 34636380,
+            "MD5": "55f3ba71ad46be82b42b52222a794592",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.12/fabricmods/required/CobbleGacha-Expanded-2.2.jar",
+            "path": "zenith/releases/1.0.12/cobbleserverutils/CobbleGacha-Expanded-2.2.jar"
           }
         },
         {
@@ -1148,14 +1148,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:ptcglive:0.8.6+zenith.r24.1@jar",
+          "id": "zenith.fabricmod:ptcglive:0.8.6+zenith.r25@jar",
           "name": "Zenith TCG Card",
           "type": "FabricMod",
           "artifact": {
-            "size": 29526537,
-            "MD5": "662aaf77087d880278b8a382a58f7d25",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.11/fabricmods/required/TCLib.jar",
-            "path": "zenith/releases/1.0.11/ptcglive/TCLib.jar"
+            "size": 29536871,
+            "MD5": "970799fe4cf1cb75bd10660749feb70b",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.12/fabricmods/required/TCLib.jar",
+            "path": "zenith/releases/1.0.12/ptcglive/TCLib.jar"
           }
         },
         {
@@ -1307,6 +1307,17 @@
             "size": 337989,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
             "MD5": "cf9f9ea80cd7f8febebbe1752f23b68f"
+          }
+        },
+        {
+          "id": "zenith.fabricmod:tertiarytype:1.0.7-r151@jar",
+          "name": "Cobblemon TertiaryType v1.0.7-1.21.1-cobblemon-1.7.3-to-1.8.4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 285152,
+            "MD5": "1e8b620566fdb4209df9d10281d3ceb4",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.12/fabricmods/required/TypeLib.jar",
+            "path": "zenith/releases/1.0.12/tertiarytype/TypeLib.jar"
           }
         },
         {
@@ -1495,14 +1506,14 @@
           }
         },
         {
-          "id": "zenith.fabricmod:zenith_showdown_client:0.1.21+classic.1@jar",
+          "id": "zenith.fabricmod:zenith_showdown_client:0.1.22+classic.1@jar",
           "name": "Zenith Showdown Client UI - Classic",
           "type": "FabricMod",
           "artifact": {
-            "size": 645520,
-            "MD5": "45ea8e251d9969b52ebb7a6819c2a8e2",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.11/fabricmods/required/ShoLib.jar",
-            "path": "zenith/releases/1.0.11/zenith_showdown_client/ShoLib.jar"
+            "size": 654113,
+            "MD5": "7396a32a7fc4a039b94baffc70b4236e",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.12/fabricmods/required/ShoLib.jar",
+            "path": "zenith/releases/1.0.12/zenith_showdown_client/ShoLib.jar"
           }
         },
         {
@@ -1762,14 +1773,14 @@
           }
         },
         {
-          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.11@zip",
+          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.12@zip",
           "name": "Zenith Rsp",
           "type": "File",
           "artifact": {
-            "size": 29795167,
-            "MD5": "1b59b0c68783f80d0cb51827568549c6",
+            "size": 41957496,
+            "MD5": "034d19a1cf4c6cc5855e477a2b12aade",
             "path": "resourcepacks/Zenith_Zenith Rsp.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.11/resourcepacks/Zenith_Zenith%20Rsp.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.12/resourcepacks/Zenith_Zenith%20Rsp.zip"
           }
         }
       ],
