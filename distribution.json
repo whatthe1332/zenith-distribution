@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -278,17 +278,6 @@
             "size": 1157166,
             "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
-          }
-        },
-        {
-          "id": "zenith.fabricmod:cobble_tft_client:1.0.0-alpha.110@jar",
-          "name": "CobbleTFT Client UI",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 110950,
-            "MD5": "c0b72d511c5eb086931e18cd5f802a8b",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.3/fabricmods/required/TFTClient.jar",
-            "path": "zenith/releases/1.0.3/cobble_tft_client/TFTClient.jar"
           }
         },
         {
@@ -1127,6 +1116,17 @@
           }
         },
         {
+          "id": "zenith.fabricmod:pokespatula:0.6.11-zenith-backport.4@jar",
+          "name": "Zenith Pokémon TFT",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 513980,
+            "MD5": "4548c2303a2bb613be25ce3d4a71d03d",
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.13/fabricmods/required/TFTClient.jar",
+            "path": "zenith/releases/1.0.13/pokespatula/TFTClient.jar"
+          }
+        },
+        {
           "id": "zenith.fabricmod:pokeultra_client:5.3.31@jar",
           "name": "Poke Ultra Client",
           "type": "FabricMod",
@@ -1773,14 +1773,14 @@
           }
         },
         {
-          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.12@zip",
+          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.13@zip",
           "name": "Zenith Rsp",
           "type": "File",
           "artifact": {
-            "size": 41957496,
-            "MD5": "034d19a1cf4c6cc5855e477a2b12aade",
+            "size": 42517893,
+            "MD5": "75623f266b00077b4a2c5766dce34752",
             "path": "resourcepacks/Zenith_Zenith Rsp.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.12/resourcepacks/Zenith_Zenith%20Rsp.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.13/resourcepacks/Zenith_Zenith%20Rsp.zip"
           }
         }
       ],
