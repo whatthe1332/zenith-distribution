@@ -11,7 +11,7 @@
       "name": "Zenith",
       "description": "Zenith Cobblemon Adventure",
       "icon": "https://i.ibb.co/Q7NH0jfb/svicon256.png",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "address": "79.127.235.181:19004",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -1773,14 +1773,14 @@
           }
         },
         {
-          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.13@zip",
+          "id": "zenith.resourcepack:9d7be9c67100b1d5:1.0.14@zip",
           "name": "Zenith Rsp",
           "type": "File",
           "artifact": {
-            "size": 42517893,
-            "MD5": "75623f266b00077b4a2c5766dce34752",
+            "size": 43171855,
+            "MD5": "523a40f983ea6945a6d6e23ac0d1efde",
             "path": "resourcepacks/Zenith_Zenith Rsp.zip",
-            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.13/resourcepacks/Zenith_Zenith%20Rsp.zip"
+            "url": "https://pub-70acbf64dad74758a05824c97a66b1dd.r2.dev/servers/Zenith-1.21.1/releases/1.0.14/resourcepacks/Zenith_Zenith%20Rsp.zip"
           }
         }
       ],
